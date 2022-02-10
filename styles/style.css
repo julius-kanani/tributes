@@ -1,0 +1,31 @@
+#main {
+    text-align: center;
+    background-color: azure;
+}
+
+ul {
+    text-align: center;
+}
+#img-div {
+    width: auto;
+    background-color: white;
+    padding: auto;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#unordered > ul > li {
+    padding-top: 20px;
+    width: auto;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: left;
+}
+#caption {
+    font-style: italic;
+    text-align: left;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+h4 {
+    padding-top: 20px;
+}
